@@ -29,7 +29,11 @@ resolver: lts-13.25
 #   - auto-update
 #   - wai
 packages:
-- .
+- lesson0-convenience-libraries
+- lesson1-renaming-modules
+- lesson2-signatures
+- lesson3-signature-merging
+- lesson4-signature-thinning
 # Dependency packages to be pulled from upstream that are not in the resolver.
 # These entries can reference officially published versions as well as
 # forks / in-progress versions pinned to a git hash. For example:
